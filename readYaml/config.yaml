@@ -1,0 +1,5 @@
+server:
+  baseUrl: "https://github.com/lmckiwo"
+token: "blah:blahblahblah"
+projects:
+  name: "project a"
